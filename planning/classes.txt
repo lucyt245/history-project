@@ -4,6 +4,6 @@ Classes:
 - Event -> start_date, (optional) end_date, description: str
 - WarEvent (extends Event) -> actors: list[figure/group], outcome: str, winner(optional): figure/group
 
-- Figure
+- Figure ->
 - Group
 - Country (extends Groups)

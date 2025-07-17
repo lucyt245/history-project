@@ -7,5 +7,5 @@
 /dataSources/
 /dataSources.local.xml
 
-# where the project planning is done
-src/planning.txt
+# ignores planning files
+planning/

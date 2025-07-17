@@ -1,0 +1,9 @@
+Classes:
+
+- Timeline -> start_date: datetime, end_date: datetime, events_list: array[event]
+- Event -> start_date, (optional) end_date, description: str
+- WarEvent (extends Event) -> actors: list[figure/group], outcome: str, winner(optional): figure/group
+
+- Figure
+- Group
+- Country (extends Groups)

@@ -8,4 +8,4 @@
 /dataSources.local.xml
 
 # where the project planning is done
-/src/planning.txt
+src/planning.txt

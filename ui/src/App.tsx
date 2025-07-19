@@ -1,7 +1,5 @@
-import ListGroup from "./components/ListGroup.tsx";
-
 function App() {
-    return <div><ListGroup/></div>
+    return <h1>Hello!</h1>
 }
 
 export default App;

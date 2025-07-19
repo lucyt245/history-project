@@ -8,4 +8,4 @@
 /dataSources.local.xml
 
 # ignores planning files
-planning/
+/planning/
